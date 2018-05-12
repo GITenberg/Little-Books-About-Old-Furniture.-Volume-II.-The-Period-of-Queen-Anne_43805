@@ -1,0 +1,31 @@
+_repo: Little-Books-About-Old-Furniture.-Volume-II.-The-Period-of-Queen-Anne_43805
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43805-h/images/i_cover.jpg
+creator:
+  authors:
+  - agent_name: Blake, J. P. (John Percy)
+    alias: Blake, John Percy
+    gutenberg_agent_id: '42416'
+    url: http://www.gutenberg.org/2009/agents/42416
+  - agent_name: Reveirs-Hopkins, A. E. (Alfred Edward)
+    alias: Reveirs-Hopkins, Alfred Edward
+    gutenberg_agent_id: '42417'
+    url: http://www.gutenberg.org/2009/agents/42417
+description: ''
+gutenberg_issued: '2013-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43805'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Decoration and ornament -- Queen Anne style'
+- !lcsh 'Furniture, Queen Anne'
+- !lcsh 'Furniture -- England -- History -- 18th century'
+- !lcc 'NK'
+title: Little Books About Old Furniture. Volume II. The Period of Queen Anne
+url: http://www.gutenberg.org/ebooks/43805
